@@ -1,7 +1,8 @@
+
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
        stack=[]
-       seen=set()
+       seen=list()
        for i,val in enumerate(s):
             if val=='(':
                  stack.append(i)
@@ -12,12 +13,14 @@ class Solution:
                     stack.append(i)
        while stack:
             a=stack.pop()
-            seen.add(a)
+            seen.append(a)
        res=""
        for i,val in enumerate(s):
             if i not in seen:
                 res=res+val
        return res
 
+
+        
 
         
