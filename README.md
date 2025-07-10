@@ -25,6 +25,7 @@
 | [0290-word-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0389-find-the-difference) |
+| [0541-reverse-string-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0541-reverse-string-ii) |
 | [0926-find-and-replace-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1651-shuffle-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1651-shuffle-string) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0541-reverse-string-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0541-reverse-string-ii) |
 ## Matrix
 |  |
 | ------- |
