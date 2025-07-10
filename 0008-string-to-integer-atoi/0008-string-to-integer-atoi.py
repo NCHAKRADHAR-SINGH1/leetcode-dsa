@@ -1,7 +1,7 @@
 class Solution:
     def myAtoi(self, s: str) -> int:
         s=s.strip()
-        if not s:
+        if len(s)==0:
             return 0
         sign=1
         res=0
