@@ -9,6 +9,7 @@
 | [0073-set-matrix-zeroes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0137-single-number-ii) |
+| [0189-rotate-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0283-move-zeroes) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0541-reverse-string-ii) |
 ## Matrix
@@ -102,6 +104,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
