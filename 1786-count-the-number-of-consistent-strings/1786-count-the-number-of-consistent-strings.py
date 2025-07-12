@@ -1,8 +1,10 @@
 class Solution:
     def countConsistentStrings(self, allowed: str, words: List[str]) -> int:
-       string=set(allowed)
-       count=0
-       for word in words:
-            if all(ch in string for ch in word):
-                 count=count+1
-       return (count)
+        dici=Counter({ch:float("inf") for ch in allowed})
+        count=0      
+        for i in range(len(words)):
+            word=words[i]
+            dici2=Counter(word)
+            if dici>= dici2:
+                count=count+1
+        return (count)
