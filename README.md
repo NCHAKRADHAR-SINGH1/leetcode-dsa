@@ -26,6 +26,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0008-string-to-integer-atoi) |
 | [0168-excel-sheet-column-title](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
 ## Bit Manipulation
