@@ -128,6 +128,7 @@
 | [0171-excel-sheet-column-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,4 +138,16 @@
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0389-find-the-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
