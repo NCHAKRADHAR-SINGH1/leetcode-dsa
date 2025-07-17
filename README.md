@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0136-single-number) |
@@ -62,6 +63,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0283-move-zeroes) |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
