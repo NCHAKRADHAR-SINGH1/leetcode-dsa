@@ -21,6 +21,7 @@
 | [0837-most-common-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0837-most-common-word) |
 | [0926-find-and-replace-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1651-shuffle-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2502-sort-the-people) |
@@ -71,6 +72,7 @@
 | [0283-move-zeroes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0953-reverse-only-letters) |
+| [1019-squares-of-a-sorted-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1970-sorting-the-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2502-sort-the-people) |
