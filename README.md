@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0137-single-number-ii) |
@@ -134,6 +135,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0948-sort-an-array) |
 ## Bucket Sort
@@ -165,6 +167,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
