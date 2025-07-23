@@ -3,9 +3,10 @@ class Solution:
         def string(s):
             stack=[]
             for ch in s:
-                if ch=='#':
-                    if stack:
+                if stack and ch=='#':
                       stack.pop()
+                elif len(stack)==0 and ch=='#':
+                    continue
                 else:
                     stack.append(ch)
             return ''.join(stack)
