@@ -21,6 +21,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0739-daily-temperatures) |
 | [0837-most-common-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0837-most-common-word) |
 | [0926-find-and-replace-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0948-sort-an-array) |
@@ -96,6 +97,7 @@
 | [0020-valid-parentheses](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
