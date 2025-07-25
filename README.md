@@ -63,6 +63,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0290-word-pattern) |
@@ -81,6 +82,7 @@
 | [0011-container-with-most-water](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0541-reverse-string-ii) |
 | [0874-backspace-string-compare](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0874-backspace-string-compare) |
@@ -163,6 +165,7 @@
 | [0168-excel-sheet-column-title](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
