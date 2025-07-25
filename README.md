@@ -166,6 +166,7 @@
 | [0171-excel-sheet-column-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
@@ -214,6 +215,11 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0874-backspace-string-compare) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
