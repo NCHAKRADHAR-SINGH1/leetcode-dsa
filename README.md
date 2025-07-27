@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0739-daily-temperatures) |
@@ -70,6 +71,7 @@
 | [0347-top-k-frequent-elements](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0837-most-common-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0837-most-common-word) |
 | [0926-find-and-replace-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
