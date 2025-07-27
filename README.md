@@ -57,6 +57,7 @@
 | [1524-string-matching-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1651-shuffle-string) |
+| [1666-make-the-string-great](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1970-sorting-the-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1970-sorting-the-sentence) |
@@ -112,6 +113,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1666-make-the-string-great](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1666-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
