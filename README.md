@@ -27,6 +27,7 @@
 | [0926-find-and-replace-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
+| [1524-string-matching-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -53,6 +54,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1524-string-matching-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -228,4 +230,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0258-add-digits) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
