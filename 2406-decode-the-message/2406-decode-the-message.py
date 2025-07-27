@@ -3,7 +3,7 @@ class Solution(object):
         key=key.replace(" ","")
         li=[]
         for i in key:
-         if i not in li:
+          if i not in li:
             li.append(i)
         dici={}
         alphabet = "abcdefghijklmnopqrstuvwxyz"
