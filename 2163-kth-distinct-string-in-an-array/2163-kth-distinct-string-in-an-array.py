@@ -1,13 +1,16 @@
 class Solution:
     def kthDistinct(self, arr: List[str], k: int) -> str:
         dici={}
-        for i in range(len(arr)):
-            dici[arr[i]]=1+dici.get(arr[i],0)
-        result=[]
-        for key,value in dici.items():
-            if value==1:
-                result.append(key)
-        if len(result) >= k:
-            return result[k-1]
-        else:
-            return ""
+        count=0
+        for i in arr:
+            if i not in dici:
+                dici[i]=1
+            else:
+                dici[i]+=1
+        for i in dici:
+            if dici[i]==1:
+                count=count+1
+                if count==k:
+                    return i
+        return ""
+        
