@@ -64,6 +64,7 @@
 | [1970-sorting-the-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2406-decode-the-message](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2502-sort-the-people) |
 | [3396-valid-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3396-valid-word) |
@@ -232,6 +233,7 @@
 | [0258-add-digits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0874-backspace-string-compare) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Number Theory
 |  |
 | ------- |
