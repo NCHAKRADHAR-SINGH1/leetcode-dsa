@@ -48,6 +48,7 @@
 | [0171-excel-sheet-column-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0434-number-of-segments-in-a-string) |
@@ -91,6 +92,7 @@
 | [0290-word-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0837-most-common-word) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1112-find-words-that-can-be-formed-by-characters) |
