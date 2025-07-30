@@ -28,6 +28,7 @@
 | [0926-find-and-replace-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1524-string-matching-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1651-shuffle-string) |
@@ -55,6 +56,7 @@
 | [0874-backspace-string-compare](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0874-backspace-string-compare) |
 | [0926-find-and-replace-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
 | [0953-reverse-only-letters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0953-reverse-only-letters) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -94,6 +96,7 @@
 | [0496-next-greater-element-i](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0837-most-common-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0837-most-common-word) |
 | [0926-find-and-replace-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -146,6 +149,7 @@
 | [0347-top-k-frequent-elements](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0837-most-common-word) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
