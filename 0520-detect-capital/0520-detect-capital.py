@@ -5,7 +5,7 @@ class Solution:
             or 
             word.islower()
             or
-            word[0].isupper() and word[1:].islower()
+            word.istitle()
             
 
             )
