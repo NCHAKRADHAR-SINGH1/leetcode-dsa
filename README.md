@@ -21,6 +21,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0739-daily-temperatures) |
