@@ -67,6 +67,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
+| [1542-consecutive-characters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1542-consecutive-characters) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1666-make-the-string-great) |
