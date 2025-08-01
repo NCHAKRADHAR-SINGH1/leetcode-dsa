@@ -65,6 +65,7 @@
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1651-shuffle-string) |
