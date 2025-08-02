@@ -16,8 +16,8 @@ class Solution:
                 extra2.extend([key]*(-diff//2))
         min_value=min(total.keys())
         cost=0
-        extra1.sort()
-        extra2.sort(reverse=True)
+        extra1.sort(reverse=True)
+        extra2.sort()
         for a,b in zip(extra1,extra2):
             cost=cost+min(a,b,2*min_value)
         return cost
