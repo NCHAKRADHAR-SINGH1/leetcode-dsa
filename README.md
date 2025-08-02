@@ -39,6 +39,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2502-sort-the-people](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2502-sort-the-people) |
+| [2689-rearranging-fruits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2689-rearranging-fruits) |
 | [2881-split-strings-by-separator](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2881-split-strings-by-separator) |
 ## String
 |  |
@@ -115,6 +116,7 @@
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2406-decode-the-message](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2502-sort-the-people) |
+| [2689-rearranging-fruits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2689-rearranging-fruits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 | [1561-rearrange-words-in-a-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1970-sorting-the-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2502-sort-the-people) |
+| [2689-rearranging-fruits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2689-rearranging-fruits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -248,6 +251,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2689-rearranging-fruits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2689-rearranging-fruits) |
 ## Merge Sort
 |  |
 | ------- |
