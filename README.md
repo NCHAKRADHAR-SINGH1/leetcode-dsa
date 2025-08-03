@@ -73,6 +73,7 @@
 | [1561-rearrange-words-in-a-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1666-make-the-string-great) |
+| [1777-determine-if-two-strings-are-close](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1797-goal-parser-interpretation) |
@@ -109,6 +110,7 @@
 | [0837-most-common-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0837-most-common-word) |
 | [0926-find-and-replace-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1777-determine-if-two-strings-are-close](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -167,6 +169,7 @@
 | [0837-most-common-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0837-most-common-word) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1777-determine-if-two-strings-are-close](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -190,6 +193,7 @@
 | [0948-sort-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1777-determine-if-two-strings-are-close](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1777-determine-if-two-strings-are-close) |
 | [1970-sorting-the-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2502-sort-the-people) |
 | [2689-rearranging-fruits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2689-rearranging-fruits) |
