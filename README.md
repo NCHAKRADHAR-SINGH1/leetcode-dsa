@@ -66,6 +66,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1524-string-matching-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
@@ -228,6 +229,7 @@
 | [0258-add-digits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [2689-rearranging-fruits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2689-rearranging-fruits) |
 ## Merge Sort
 |  |
