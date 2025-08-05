@@ -13,6 +13,7 @@
 | [0136-single-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
@@ -228,6 +229,7 @@
 | [0171-excel-sheet-column-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
@@ -288,6 +290,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0258-add-digits) |
 ## String Matching
 |  |
@@ -297,4 +300,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0155-min-stack) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
