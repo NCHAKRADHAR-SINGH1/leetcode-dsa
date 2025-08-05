@@ -11,6 +11,6 @@ class Solution:
         li=[]
         for x in range(2,n//2+1):
             y=n-x
-            if is_prime[x]==True and is_prime[y]==True:
+            if is_prime[x] and is_prime[y]:
                 li.append([x,y])
         return li
