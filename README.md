@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0189-rotate-array) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
@@ -304,4 +306,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0204-count-primes) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
