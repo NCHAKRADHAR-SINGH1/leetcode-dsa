@@ -25,6 +25,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0682-baseball-game) |
@@ -61,6 +62,7 @@
 | [0389-find-the-difference](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0541-reverse-string-ii) |
 | [0696-count-binary-substrings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0696-count-binary-substrings) |
@@ -120,6 +122,7 @@
 | [0389-find-the-difference](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0500-keyboard-row) |
 | [0837-most-common-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0889-buddy-strings) |
 | [0926-find-and-replace-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
