@@ -3,12 +3,13 @@ class Solution:
     def equalFrequency(self, word: str) -> bool:
         dici=Counter(word)
         for ch in dici:
-            temp=dici.copy()
-            temp[ch]-=1
-            if temp[ch]==0:
-                del temp[ch]
-            if len(set(temp.values()))==1:
+            dici[ch]-=1
+            freq=[ ch for ch in dici.values() if ch >0 ]
+               
+            if len(set(freq))==1:
                 return True
+            else:
+                dici[ch]+=1
     
         else:
             return False
