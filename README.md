@@ -25,6 +25,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0739-daily-temperatures) |
@@ -275,6 +276,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
