@@ -65,6 +65,7 @@
 | [0500-keyboard-row](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0551-student-attendance-record-i) |
 | [0696-count-binary-substrings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0696-count-binary-substrings) |
 | [0837-most-common-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0874-backspace-string-compare) |
