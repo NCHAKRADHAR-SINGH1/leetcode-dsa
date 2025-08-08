@@ -98,6 +98,7 @@
 | [2406-decode-the-message](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2406-decode-the-message) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2502-sort-the-people) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2881-split-strings-by-separator](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2881-split-strings-by-separator) |
 | [3396-valid-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3396-valid-word) |
 ## Hash Table
@@ -130,6 +131,7 @@
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2406-decode-the-message](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2502-sort-the-people) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2689-rearranging-fruits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2689-rearranging-fruits) |
 ## Two Pointers
 |  |
@@ -188,6 +190,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Binary Search
 |  |
 | ------- |
