@@ -30,6 +30,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0739-daily-temperatures) |
+| [0749-shortest-completing-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0837-most-common-word) |
 | [0926-find-and-replace-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0948-sort-an-array) |
@@ -67,6 +68,7 @@
 | [0541-reverse-string-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0551-student-attendance-record-i) |
 | [0696-count-binary-substrings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0696-count-binary-substrings) |
+| [0749-shortest-completing-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0889-buddy-strings) |
@@ -124,6 +126,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0500-keyboard-row) |
+| [0749-shortest-completing-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0889-buddy-strings) |
 | [0926-find-and-replace-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
