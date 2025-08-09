@@ -32,6 +32,7 @@
 | [0682-baseball-game](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0739-daily-temperatures) |
 | [0749-shortest-completing-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0749-shortest-completing-word) |
+| [0822-unique-morse-code-words](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0837-most-common-word) |
 | [0926-find-and-replace-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
 | [0948-sort-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0948-sort-an-array) |
@@ -71,6 +72,7 @@
 | [0551-student-attendance-record-i](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0551-student-attendance-record-i) |
 | [0696-count-binary-substrings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0696-count-binary-substrings) |
 | [0749-shortest-completing-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0749-shortest-completing-word) |
+| [0822-unique-morse-code-words](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0889-buddy-strings) |
@@ -132,6 +134,7 @@
 | [0496-next-greater-element-i](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0500-keyboard-row) |
 | [0749-shortest-completing-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0749-shortest-completing-word) |
+| [0822-unique-morse-code-words](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0889-buddy-strings) |
 | [0926-find-and-replace-pattern](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0926-find-and-replace-pattern) |
