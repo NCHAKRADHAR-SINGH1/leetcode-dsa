@@ -40,6 +40,7 @@
 | [1044-find-common-characters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1217-relative-sort-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1524-string-matching-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1547-destination-city) |
 | [1603-running-sum-of-1d-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1603-running-sum-of-1d-array) |
@@ -144,6 +145,7 @@
 | [1044-find-common-characters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1217-relative-sort-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1547-destination-city](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1547-destination-city) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1777-determine-if-two-strings-are-close) |
