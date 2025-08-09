@@ -252,6 +252,7 @@
 | [0189-rotate-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
@@ -262,6 +263,7 @@
 | ------- |
 | [0136-single-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0389-find-the-difference) |
@@ -274,6 +276,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
