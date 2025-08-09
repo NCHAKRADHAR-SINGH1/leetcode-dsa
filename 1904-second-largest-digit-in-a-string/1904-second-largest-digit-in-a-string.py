@@ -11,7 +11,7 @@ class Solution:
         if len(li) >= 2:
             for i in range(k):
                 heapq.heappop(heap)
-        return (-heapq.heappop(heap))
+        return (-heap[0])
 
          
       
