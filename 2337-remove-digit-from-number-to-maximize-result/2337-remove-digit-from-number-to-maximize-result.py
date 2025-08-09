@@ -1,10 +1,10 @@
 class Solution:
     def removeDigit(self, number: str, digit: str) -> str:
         count=""
-        for index,value in enumerate(number):
+        for i in range(len(number)):
             string=""
-            if value==digit:
-                string=number[:index]+number[index+1:]
+            if number[i]==digit:
+                string=number[:i]+number[i+1:]
                 if string > count :
                     count=string
         return count
