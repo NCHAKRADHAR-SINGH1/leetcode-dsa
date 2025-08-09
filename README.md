@@ -94,6 +94,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1904-second-largest-digit-in-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1904-second-largest-digit-in-a-string) |
 | [1944-truncate-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1944-truncate-sentence) |
 | [1970-sorting-the-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -135,6 +136,7 @@
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1904-second-largest-digit-in-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1904-second-largest-digit-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2190-count-common-words-with-one-occurrence) |
