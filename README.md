@@ -44,6 +44,7 @@
 | [1524-string-matching-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1547-destination-city) |
 | [1603-running-sum-of-1d-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1603-running-sum-of-1d-array) |
+| [1646-kth-missing-positive-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -223,6 +224,7 @@
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1646-kth-missing-positive-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1646-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
