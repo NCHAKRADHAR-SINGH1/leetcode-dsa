@@ -6,6 +6,6 @@ class Solution:
             if i not in arr:
                 li.append(i)
                 k-=1
-                if k==-0:
+                if k==0:
                     break
         return li[k-1]
