@@ -1,6 +1,6 @@
 class Solution(object):
     def addDigits(self, num):
-        while num >=10:
+        while num >9:
             total=0
             while num > 0:
                digit=num % 10
