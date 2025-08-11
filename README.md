@@ -107,6 +107,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1904-second-largest-digit-in-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1904-second-largest-digit-in-a-string) |
 | [1944-truncate-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1944-truncate-sentence) |
+| [1954-replace-all-digits-with-characters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1954-replace-all-digits-with-characters) |
 | [1970-sorting-the-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2163-kth-distinct-string-in-an-array) |
