@@ -114,6 +114,7 @@
 | [2235-capitalize-the-title](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2235-capitalize-the-title) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2406-decode-the-message](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2406-decode-the-message) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
@@ -342,6 +343,7 @@
 | [0682-baseball-game](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0874-backspace-string-compare) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2361-calculate-digit-sum-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
