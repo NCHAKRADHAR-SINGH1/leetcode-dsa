@@ -111,6 +111,7 @@
 | [1970-sorting-the-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1970-sorting-the-sentence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2235-capitalize-the-title](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2235-capitalize-the-title) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -158,6 +159,7 @@
 | [1904-second-largest-digit-in-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1904-second-largest-digit-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2406-decode-the-message](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2406-decode-the-message) |
@@ -221,6 +223,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2532-remove-letter-to-equalize-frequency) |
