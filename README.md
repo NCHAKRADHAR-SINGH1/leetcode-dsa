@@ -59,6 +59,7 @@
 | [2873-prime-pairs-with-target-sum](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2873-prime-pairs-with-target-sum) |
 | [2881-split-strings-by-separator](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2881-split-strings-by-separator) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -177,6 +178,7 @@
 | [2532-remove-letter-to-equalize-frequency](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2689-rearranging-fruits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2689-rearranging-fruits) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -197,6 +199,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
@@ -302,6 +305,7 @@
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [2873-prime-pairs-with-target-sum](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2873-prime-pairs-with-target-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
