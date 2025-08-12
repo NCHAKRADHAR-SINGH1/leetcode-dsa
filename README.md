@@ -53,6 +53,7 @@
 | [1944-truncate-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1944-truncate-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2486-most-frequent-even-element](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2502-sort-the-people) |
 | [2689-rearranging-fruits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2689-rearranging-fruits) |
 | [2873-prime-pairs-with-target-sum](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2873-prime-pairs-with-target-sum) |
@@ -171,6 +172,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2406-decode-the-message](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2406-decode-the-message) |
+| [2486-most-frequent-even-element](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2689-rearranging-fruits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2689-rearranging-fruits) |
@@ -237,6 +239,7 @@
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2486-most-frequent-even-element](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2486-most-frequent-even-element) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
