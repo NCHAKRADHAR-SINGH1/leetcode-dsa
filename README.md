@@ -49,6 +49,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1848-sum-of-unique-elements) |
+| [1899-count-items-matching-a-rule](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1944-truncate-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -106,6 +107,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1899-count-items-matching-a-rule](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1899-count-items-matching-a-rule) |
 | [1904-second-largest-digit-in-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1944-truncate-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1944-truncate-sentence) |
