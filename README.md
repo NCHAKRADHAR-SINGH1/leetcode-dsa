@@ -55,6 +55,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2486-most-frequent-even-element](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2502-sort-the-people) |
+| [2561-number-of-distinct-averages](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2561-number-of-distinct-averages) |
 | [2689-rearranging-fruits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2689-rearranging-fruits) |
 | [2873-prime-pairs-with-target-sum](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2873-prime-pairs-with-target-sum) |
 | [2881-split-strings-by-separator](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2881-split-strings-by-separator) |
@@ -176,6 +177,7 @@
 | [2486-most-frequent-even-element](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2561-number-of-distinct-averages](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2561-number-of-distinct-averages) |
 | [2689-rearranging-fruits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2689-rearranging-fruits) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3227-find-missing-and-repeated-values) |
@@ -194,6 +196,7 @@
 | [0874-backspace-string-compare](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
+| [2561-number-of-distinct-averages](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2561-number-of-distinct-averages) |
 ## Matrix
 |  |
 | ------- |
@@ -269,6 +272,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1777-determine-if-two-strings-are-close) |
 | [1970-sorting-the-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2502-sort-the-people) |
+| [2561-number-of-distinct-averages](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2561-number-of-distinct-averages) |
 | [2689-rearranging-fruits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2689-rearranging-fruits) |
 ## Heap (Priority Queue)
 |  |
