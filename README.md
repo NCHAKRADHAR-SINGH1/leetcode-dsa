@@ -62,6 +62,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [0953-reverse-only-letters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [2561-number-of-distinct-averages](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2561-number-of-distinct-averages) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -274,6 +276,7 @@
 | [2502-sort-the-people](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2561-number-of-distinct-averages) |
 | [2689-rearranging-fruits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2689-rearranging-fruits) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
