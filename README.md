@@ -58,6 +58,7 @@
 | [2502-sort-the-people](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2561-number-of-distinct-averages) |
 | [2689-rearranging-fruits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2689-rearranging-fruits) |
+| [2727-number-of-senior-citizens](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2727-number-of-senior-citizens) |
 | [2873-prime-pairs-with-target-sum](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2873-prime-pairs-with-target-sum) |
 | [2881-split-strings-by-separator](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2881-split-strings-by-separator) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -132,6 +133,7 @@
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2727-number-of-senior-citizens](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2727-number-of-senior-citizens) |
 | [2881-split-strings-by-separator](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2881-split-strings-by-separator) |
 | [3396-valid-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3447-clear-digits) |
