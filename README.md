@@ -134,6 +134,7 @@
 | [2532-remove-letter-to-equalize-frequency](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2881-split-strings-by-separator](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2881-split-strings-by-separator) |
 | [3396-valid-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3396-valid-word) |
+| [3447-clear-digits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1666-make-the-string-great) |
+| [3447-clear-digits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -376,6 +378,7 @@
 | [0874-backspace-string-compare](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0874-backspace-string-compare) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [3447-clear-digits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3447-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
