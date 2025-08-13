@@ -43,6 +43,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1524-string-matching-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1524-string-matching-in-an-array) |
 | [1547-destination-city](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1547-destination-city) |
+| [1580-shuffle-the-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1651-shuffle-string) |
