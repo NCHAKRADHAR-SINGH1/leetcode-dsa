@@ -138,6 +138,7 @@
 | [3396-valid-word](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3447-clear-digits) |
 | [3468-find-the-encrypted-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3468-find-the-encrypted-string) |
+| [3636-check-balanced-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3636-check-balanced-string) |
 ## Hash Table
 |  |
 | ------- |
