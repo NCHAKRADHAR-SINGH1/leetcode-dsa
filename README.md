@@ -309,6 +309,7 @@
 | [0231-power-of-two](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [2873-prime-pairs-with-target-sum](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2873-prime-pairs-with-target-sum) |
@@ -332,6 +333,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
