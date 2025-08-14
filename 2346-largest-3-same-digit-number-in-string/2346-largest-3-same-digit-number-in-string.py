@@ -7,7 +7,7 @@ class Solution:
             result=i*3
             if result > largest:
                 largest=result
-            stack.clear() 
+                stack.clear() 
           else:
             stack.append(i)
         return largest
