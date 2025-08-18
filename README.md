@@ -319,6 +319,7 @@
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0342-power-of-four) |
+| [0728-self-dividing-numbers](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [2873-prime-pairs-with-target-sum](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2873-prime-pairs-with-target-sum) |
