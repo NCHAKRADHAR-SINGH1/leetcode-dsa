@@ -343,6 +343,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0342-power-of-four) |
@@ -417,4 +418,8 @@
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
