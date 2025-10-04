@@ -205,6 +205,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2561-number-of-distinct-averages](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2561-number-of-distinct-averages) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Matrix
@@ -424,4 +425,5 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
