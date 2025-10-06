@@ -23,9 +23,7 @@ class Solution {
             else{
                prev=temp;
             }
-           
-        
-         curr=curr.next;
+           curr=temp.next;
          
        
     }
