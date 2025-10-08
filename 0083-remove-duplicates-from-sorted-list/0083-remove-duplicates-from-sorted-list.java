@@ -16,14 +16,13 @@ class Solution {
         ListNode prev=head;
         ListNode curr=head.next;
         while(curr!=null){
-          ListNode   temp=curr;
             if(prev.val==curr.val){
               prev.next=curr.next;
             }
             else{
-               prev=temp;
+               prev=curr;
             }
-           curr=temp.next;
+           curr=curr.next;
          
        
     }
