@@ -17,13 +17,13 @@ class Solution {
         ListNode tail=head;
         while(tail.next!=null){
             length++;
-            tail=tail.next;     //moving tail to last node
-        } 
+            tail=tail.next;     
+        }
         if(k % length==0){
            return head;
         }
         k=k % length;
-        tail.next=head;    //pointing last node to first node like cll
+        tail.next=head;    
         int count1=length-k;
         int count2=1;
         ListNode temp=head;
@@ -34,8 +34,5 @@ class Solution {
         ListNode newHead=temp.next;
         temp.next=null;
         return newHead;
-  
-
-
     }
 }
