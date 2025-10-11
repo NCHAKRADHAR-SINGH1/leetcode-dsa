@@ -33,8 +33,6 @@ class Solution {
         }
         ListNode newHead=temp.next;
         temp.next=null;
-        
-        
         return newHead;
   
 
