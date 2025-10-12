@@ -22,10 +22,10 @@ class Solution {
           fast=fast.next; 
        }
        ListNode first=fast;
-       while(fast.next!=null){
-          fast=fast.next;
-          slow=slow.next;
+       for(int i=1;i<k;i++){
+        slow=slow.next;
        }
+       
        ListNode second=slow;
        int temp=first.val;
        first.val=second.val;
