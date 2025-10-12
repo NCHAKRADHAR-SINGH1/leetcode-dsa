@@ -199,6 +199,7 @@
 | [0027-remove-element](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
@@ -278,6 +279,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0948-sort-an-array) |
 ## Bucket Sort
@@ -378,6 +381,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -440,6 +444,7 @@
 | [0061-rotate-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
