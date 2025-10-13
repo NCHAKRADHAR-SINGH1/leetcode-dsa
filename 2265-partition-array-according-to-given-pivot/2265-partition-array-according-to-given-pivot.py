@@ -10,6 +10,4 @@ class Solution:
                 list2.append(i)
             else:
                 list3.append(i)  
-        list1.extend(list2)
-        list1.extend(list3)
-        return list1
+        return list1+list2+list3
