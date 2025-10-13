@@ -54,6 +54,7 @@
 | [1944-truncate-sentence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1944-truncate-sentence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2486-most-frequent-even-element](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2561-number-of-distinct-averages) |
@@ -214,6 +215,7 @@
 | [0953-reverse-only-letters](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2561-number-of-distinct-averages](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2561-number-of-distinct-averages) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Matrix
@@ -406,6 +408,7 @@
 | [0682-baseball-game](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0874-backspace-string-compare) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3447-clear-digits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3447-clear-digits) |
 ## Number Theory
