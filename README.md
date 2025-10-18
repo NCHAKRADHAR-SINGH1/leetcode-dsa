@@ -243,12 +243,14 @@
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1666-make-the-string-great) |
+| [2573-remove-nodes-from-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2573-remove-nodes-from-linked-list) |
 | [3447-clear-digits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0739-daily-temperatures) |
+| [2573-remove-nodes-from-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2573-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -374,6 +376,7 @@
 | [0326-power-of-three](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
+| [2573-remove-nodes-from-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2573-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -469,6 +472,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
