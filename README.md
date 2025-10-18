@@ -419,6 +419,7 @@
 | [0874-backspace-string-compare](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0874-backspace-string-compare) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3447-clear-digits](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3447-clear-digits) |
 ## Number Theory
@@ -474,6 +475,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
