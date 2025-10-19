@@ -10,18 +10,22 @@
  */
 class Solution {
     public ListNode mergeNodes(ListNode head) {
-        ListNode dummy=head.next;
-        ListNode modify=dummy;
-        while(modify!=null){
-            int sum=0;
-            while(modify.val!=0){
-                sum += modify.val;
+        ListNode modify=head.next;
+        ListNode temp=modify;
+        int sum=0;
+        while(temp!=null){
+            if(temp.val==0){
+                modify.val=sum;
+                temp=temp.next;
+                modify.next=temp;
                 modify=modify.next;
+                sum=0;
             }
-            dummy.val=sum;
-            modify=modify.next;
-            dummy.next=modify;
-            dummy=dummy.next;
+            else{
+            sum += temp.val;
+            temp=temp.next;
+            }
+           
 
         }
         return head.next;
