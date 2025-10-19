@@ -20,11 +20,12 @@ class Solution {
                 modify.next=temp;
                 modify=modify.next;
                 sum=0;
-            }
-            else{
+            }else{
+            
               sum += temp.val;
               temp=temp.next;
             }
+            
            
 
         }
