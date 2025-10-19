@@ -22,8 +22,8 @@ class Solution {
                 sum=0;
             }
             else{
-            sum += temp.val;
-            temp=temp.next;
+              sum += temp.val;
+              temp=temp.next;
             }
            
 
