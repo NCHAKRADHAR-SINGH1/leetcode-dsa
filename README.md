@@ -474,6 +474,7 @@
 | [0328-odd-even-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0908-middle-of-the-linked-list) |
+| [1765-merge-in-between-linked-lists](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2573-remove-nodes-from-linked-list) |
