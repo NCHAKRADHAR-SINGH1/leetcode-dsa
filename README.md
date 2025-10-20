@@ -236,6 +236,7 @@
 | [0143-reorder-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0739-daily-temperatures) |
@@ -345,6 +346,7 @@
 | [0268-missing-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0342-power-of-four) |
+| [0445-add-two-numbers-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0445-add-two-numbers-ii) |
 | [0728-self-dividing-numbers](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -477,6 +479,7 @@
 | [0234-palindrome-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0908-middle-of-the-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1765-merge-in-between-linked-lists) |
