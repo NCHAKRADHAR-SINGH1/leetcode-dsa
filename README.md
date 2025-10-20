@@ -334,6 +334,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0189-rotate-array) |
@@ -369,6 +370,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0143-reorder-list) |
@@ -457,6 +459,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0024-swap-nodes-in-pairs) |
