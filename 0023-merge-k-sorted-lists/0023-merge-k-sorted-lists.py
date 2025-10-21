@@ -9,10 +9,10 @@ class Solution:
             return None
         arr=[]
         for head in lists:
-            curr=head
-            while curr:
-                arr.append(curr.val)
-                curr=curr.next
+         
+            while head:
+                arr.append(head.val)
+                head=head.next
         def merge_sort(arr):
             if len(arr) <=1:
                 return arr
