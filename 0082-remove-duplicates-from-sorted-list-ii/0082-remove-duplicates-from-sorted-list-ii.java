@@ -22,9 +22,7 @@ class Solution {
            boolean is_equal=false;
            while(nextNode!=null && curr.val==nextNode.val){
                is_equal=true;
-              if(nextNode!=null){
                nextNode=nextNode.next;
-              }
            }
            if(is_equal){
              prev.next=nextNode;
