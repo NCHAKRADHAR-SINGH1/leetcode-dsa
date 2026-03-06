@@ -350,6 +350,7 @@
 | [0326-power-of-three](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0445-add-two-numbers-ii) |
+| [0509-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -371,6 +372,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -385,11 +387,13 @@
 | [0234-palindrome-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2573-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
