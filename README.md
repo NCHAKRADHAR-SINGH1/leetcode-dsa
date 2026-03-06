@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0260-single-number-iii) |
@@ -375,6 +376,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1137-n-th-tribonacci-number) |
