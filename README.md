@@ -353,6 +353,7 @@
 | [0509-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1137-n-th-tribonacci-number) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [2873-prime-pairs-with-target-sum](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -374,6 +375,7 @@
 | [0053-maximum-subarray](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -395,6 +397,7 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
