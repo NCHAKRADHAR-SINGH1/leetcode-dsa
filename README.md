@@ -341,6 +341,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
@@ -376,6 +377,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0213-house-robber-ii) |
@@ -521,4 +523,8 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/NCHAKRADHAR-SINGH1/leetcode-dsa/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
